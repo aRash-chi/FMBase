@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5E92981D7BD2D4EB66396E4E89647400DDD3445D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EDE60215A2D7E45FCB68FC667E9B4700B5D32030" : 9223372036854775807,
+    "5E92981D7BD2D4EB66396E4E89647400DDD3445D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AE77E360-5143-441F-8E5A-9DEB3762F519",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EDE60215A2D7E45FCB68FC667E9B4700B5D32030" : "..",
+    "5E92981D7BD2D4EB66396E4E89647400DDD3445D" : "FMbase\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FMbase",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/FMbase.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/coding.net\/u\/aRash\/p\/FMbase\/git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5E92981D7BD2D4EB66396E4E89647400DDD3445D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Edison-chi\/FM.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EDE60215A2D7E45FCB68FC667E9B4700B5D32030"
+    }
+  ]
+}

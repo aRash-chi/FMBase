@@ -1,0 +1,6 @@
+use_frameworks!
+
+source "https://github.com/aRash-chi/FMBase.git"
+target 'FMbase_Example' do
+  pod 'FMbase'
+end
